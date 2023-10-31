@@ -1,4 +1,0 @@
-How Do You Revert Git Commit?
-Use the Git log or reflog command to find the ID of the commit you want to revert.
-Enter the Git revert command (see below), including the commit ID you want to work on.
-Provide an informative Git commit message to explain why you needed to perform the Git revert.
